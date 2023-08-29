@@ -1,1 +1,1 @@
-# Redirect to https://olegsvs.github.io/yohoho/
+# Redirect to https://github.com/olegsvs/yohoho
